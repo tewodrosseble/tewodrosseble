@@ -15,7 +15,7 @@ Skills: JAVA / REACT / JS / HTML / CSS / PYTHON / DJANGO / OCTAVE / DATA SCIENCE
 ## Example Works
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tewodrosseble)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tewodrosseble)](https://github.com/tewodrosseble/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tewodrosseble&show_icons=true)  
 
