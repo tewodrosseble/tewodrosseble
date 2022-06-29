@@ -1,5 +1,5 @@
 ## Hi there 👋, My Name is Tewodros Seble
-// ![](https://github.com/tewodrosseble/tewodrosseble/blob/main/banner1.png)
+![](https://github.com/tewodrosseble/tewodrosseble/blob/main/banner1.png)
 
 Hi I am Tewodros Seble I am Chief Technology Officer at CyGeez Professionals. I am Electrical and Computer Engineering Student Addis Abeba University. I like learning new technologies  specially Physics, Data Science and Programming.
 
