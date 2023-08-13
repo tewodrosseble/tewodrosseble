@@ -1,9 +1,9 @@
 ## Hi there 👋, My Name is Tewodros Seble
 ![](https://github.com/tewodrosseble/tewodrosseble/blob/main/banner1.png)
 
-Hi I am Tewodros Seble I am Chief Technology Officer at CyGeez Professionals. I am Electrical and Computer Engineering Student Addis Abeba University. I like learning new technologies  specially Physics, Data Science and Programming.
+Hi I am Tewodros Seble I am Chief Technology Officer at CyGeez Professionals. I am Electrical and Computer Engineer. I like learning new technologies  specially Physics, Data Science and Programming.
 
-Skills: JAVA / REACT / JS / HTML / CSS / PYTHON / DJANGO / OCTAVE / DATA SCIENCE / ELECTRONICS / NETWORKING
+Skills: JAVA / Android / TensorFlow / Schematic and PCB / Django / Embedded Systems / Hardware Description Languages / AI/ML / Micro Electronics and Interfacing
 
 - 🔭 I’m currently working on My Company (CyGeez Professionals) 
 
