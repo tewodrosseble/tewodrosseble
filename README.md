@@ -1,11 +1,11 @@
 ## Hi there 👋, My Name is Tewodros Seble
 ![](https://github.com/tewodrosseble/tewodrosseble/blob/main/banner1.png)
 
-Hi I am Tewodros Seble I am Chief Technology Officer at CyGeez Professionals. I am Electrical and Computer Engineer. I like learning new technologies  specially Physics, Data Science and Programming.
+Hi I am Tewodros Seble I am Machine Learning and Hardware Engineer. I am interested on training and deploying ML and DL algorithms on different platforms and edge devices. I am also enthusiastic about hardware design and programming. I love learning new things specilly in the demain of Electronics, AI and data science. 
 
-Skills: JAVA / Android / TensorFlow / Schematic and PCB / Django / Embedded Systems / Hardware Description Languages / AI/ML / Micro Electronics and Interfacing
+Skills: JAVA / Android / TensorFlow / Schematic and PCB / Django / Embedded Systems / Hardware Description Languages / AI/ML / Micro Electronics and Interfacing / Digital Signal Processing / 
 
-- 🔭 I’m currently working on My Company (CyGeez Professionals) 
+- 🔭 I’m currently working on iWork Technologies 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tewodrossebe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tewodrosseble/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](wwww.cygeez.com)  
