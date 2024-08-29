@@ -5,7 +5,7 @@ Hi I am Tewodros Seble I am Machine Learning and Hardware Engineer. I am interes
 
 Skills: JAVA / Android / TensorFlow / Schematic and PCB / Django / Embedded Systems / Hardware Description Languages / AI/ML / Micro Electronics and Interfacing / Digital Signal Processing / 
 
-- 🔭 I’m currently working on iWork Technologies 
+- 🔭 I’m currently working As A Machine Learning Engineer
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tewodrossebe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tewodrosseble/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](wwww.cygeez.com)  
