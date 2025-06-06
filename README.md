@@ -1,25 +1,48 @@
 ## Hi there 👋, My Name is Tewodros Seble
+
 ![](https://github.com/tewodrosseble/tewodrosseble/blob/main/banner1.png)
 
-Hi I am Tewodros Seble I am Machine Learning and Hardware Engineer. I am interested on training and deploying ML and DL algorithms on different platforms and edge devices. I am also enthusiastic about hardware design and programming. I love learning new things specilly in the demain of Electronics, AI and data science. 
+Hi, I'm Tewodros Seble — a Machine Learning and Hardware Engineer. I specialize in training and deploying ML/DL algorithms on various platforms and edge devices. I'm also passionate about hardware design and embedded programming. I love learning new things, especially in the domains of Electronics, AI, and Data Science.
 
-Skills: JAVA / Android / TensorFlow / Schematic and PCB / Django / Embedded Systems / Hardware Description Languages / AI/ML / Micro Electronics and Interfacing / Digital Signal Processing / 
+---
 
-- 🔭 I’m currently working As A Machine Learning Engineer
+### 🛠️ Skills
 
+**Languages & Frameworks**  
+JAVA / Android / TensorFlow / Django / Hardware Description Languages  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tewodrossebe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tewodrosseble/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](wwww.cygeez.com)  
+**Engineering & Tools**  
+Schematic & PCB Design / Embedded Systems / Microelectronics / Digital Signal Processing / AI/ML Deployment
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-## Example Works
+- 🔭 I’m currently working as a **Machine Learning Engineer**
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tewodrosseble)]
+### 📫 Connect with Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tewodrosseble&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/tewodrosseble)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/tewodrosseble/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg' alt='website' height='30'>](https://www.riftronix.com)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tewodrosseble)  
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tewodrosseble)  
+### 🔖 Badges
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tewodrosseble&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tewodrosseble&show_icons=true&theme=default&cache_seconds=1800)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tewodrosseble&theme=github-compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tewodrosseble)
 
